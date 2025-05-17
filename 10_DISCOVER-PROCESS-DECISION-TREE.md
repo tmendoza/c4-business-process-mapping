@@ -92,7 +92,4 @@ Discovery Evaluation Checkpoints:
 >
 > **Embedding Discovery at the right point** strengthens product governance without slowing down routine innovation.
 
----
-
-**That completes Step 3!**
 
